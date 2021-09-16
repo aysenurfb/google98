@@ -1,9 +1,42 @@
 .divgoogle{
-    padding-left: 500px; 
+    width: 800px;
+    height: auto;
+    padding-left: 500px;
     float: left;
 }
 
+.divall{
+    float: left;
+    margin-left: 70px;
+}
+
 .divsearch{
-    float: left; 
-    background-color: pink;
+    
+}
+
+.searchic{
+    padding-right: 450px;
+    margin-left: 440px;
+}
+
+.sol{
+    float: left;
+    width: auto;
+    height: auto;
+    padding-left: 165px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.orta{
+    float: left;
+    height: auto;
+    width: auto;
+    padding-left: 80px;
+}
+
+.sag{
+    float: left;
+    height: auto;
+    
 }
