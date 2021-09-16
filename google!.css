@@ -38,5 +38,6 @@
 .sag{
     float: left;
     height: auto;
-    
+    width: auto;
+    padding-left: 180px;
 }
